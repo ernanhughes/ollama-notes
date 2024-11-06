@@ -1,3 +1,11 @@
 ipykernel
 requests
 ollama
+pymupdf
+sqlite-vec
+
+# Optional for dispalying progress bar
+tqdm
+
+# Optional for dispalying tables
+pandas

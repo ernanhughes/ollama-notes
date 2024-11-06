@@ -28,4 +28,5 @@ Notebook | Description
 [function_calling](/notebooks/function_calling.ipynb) | Use Ollama to call a function.
 [rest_api](/notebooks/rest_api.ipynb) | Use Ollama via the REST API.
 [sql](/notebooks/sql.ipynb) | Use Ollama to query a SQL database.
+[rag](/notebooks/rag.ipynb) | RAG example.
 
