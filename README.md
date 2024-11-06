@@ -2,6 +2,12 @@
 Collection of Jupyter notebooks demonstrating how to use ollama.
 
 
+# Update context size of a model
+```
+ollama run llama3.2
+>>> /set paramter num_ctx 131072
+```
+
 
 Notebook | Description
 ---|---
