@@ -2,6 +2,10 @@
 Collection of Jupyter notebooks demonstrating how to use ollama.
 
 
+I wrote an interoductory blog post on Ollama: [Ollama: The local LLM solution](http://programmer.ie/post/ollama/)
+
+
+
 ## Install
 ```
 cd d:\projects\ollama-notes
